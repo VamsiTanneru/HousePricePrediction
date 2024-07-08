@@ -120,7 +120,7 @@ To set up the project locally, follow these steps:
 
 3. **Clone this repository to your local machine using Git:**
    ```sh
-   git clone https://github.com/VamsiTanneru/KingCountyHousePricePrediction.git
+   git clone https://github.com/VamsiTanneru/HousePricePrediction.git
 
 4. **Run the Code**:
    - Open the R Script:
