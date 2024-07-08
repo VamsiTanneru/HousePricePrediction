@@ -12,6 +12,7 @@ Welcome to the House Price Prediction project repository! This project is part o
 - [Results](#results)
 - [Limitations and Future Work](#limitations-and-future-work)
 - [Setup](#setup)
+- [Screenshots of Visualizations/Results](#screenshots-of-visualizationsresults)
 
 
 ## Project Overview
@@ -126,3 +127,19 @@ To set up the project locally, follow these steps:
      Open '540 final code (1).R' in your R environment (e.g., RStudio).
    - Execute the Script:
      Run the script to perform the data analysis and modeling.
+
+
+## Screenshots of Visualizations/Results
+![](screenshots/Picture1.jpg)
+![](screenshots/Picture2.jpg)
+![](screenshots/Picture3.jpg)
+![](screenshots/Picture4.jpg)
+![](screenshots/Picture5.jpg)
+![](screenshots/Picture6.jpg)
+![](screenshots/Picture7.jpg)
+![](screenshots/Picture8.jpg)
+![](screenshots/Picture9.jpg)
+![](screenshots/Picture10.jpg)
+![](screenshots/Picture11.jpg)
+![](screenshots/Picture12.jpg)
+
